@@ -40,7 +40,7 @@ function BooksGrid() {
 
     return (
         <>
-            <section className=" mx-auto grid gap-6 sm:grid-cols-2 lg:grid-cols-3 px-44">
+            <section className=" mx-auto grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
                 {Books.map((book, idx) => (
 
                     <BookCard key={idx} book={book} />

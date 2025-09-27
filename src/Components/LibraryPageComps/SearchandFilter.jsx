@@ -2,7 +2,7 @@ export default function SearchandFilter() {
     return (
         <>
 
-            <div className=" mx-auto py-6 flex flex-col md:flex-row gap-4 items-center px-44">
+            <div className=" py-6 flex flex-col md:flex-row gap-4 items-center">
                 <input
                     type="search"
                     placeholder="Search by title, author or subject"

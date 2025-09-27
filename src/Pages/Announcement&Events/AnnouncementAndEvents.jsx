@@ -9,7 +9,7 @@ function AnnouncementAndEvents() {
         <>
             <Navbar />
 
-            <div className='flex flex-col gap-8 pt-8'>
+            <div className='flex flex-col gap-8 pt-14'>
                 <AnnouncementGrid />
                 <EventGrid />
 
