@@ -22,6 +22,8 @@ export default function TeachersGrid (){
     { img: TP4, name: "Dr. Rajesh Patel", role: "Professor of History", email: "rajeshpatel@kolhanuniversity.edu" },
     { img: TP1, name: "Dr. Praful Arora", role: "Professor of Biology", email: "praful@kolhanuniversity.edu" },
     { img: TP5, name: "Dr. Laxmi Pandey", role: "Professor of Chemistry", email: "laxmi@kolhanuniversity.edu" },
+    { img: TP3, name: "Dr. Meena Verma", role: "Associate Professor, English", email: "meena@kolhanuniversity.edu" },
+    { img: TP4, name: "Dr. Vikram Singh", role: "Professor of Mathematics", email: "vikram@kolhanuniversity.edu" },
   ];
 
   return (

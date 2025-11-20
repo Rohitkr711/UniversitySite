@@ -8,7 +8,7 @@ export default function Footer() {
   }, []);
 
   return (
-    <footer className="bg-gray-900 text-white py-6 mt-12">
+    <footer className="bg-gray-900 text-white py-6 mt-12 px-44">
       <div className="container mx-auto flex justify-between items-center">
         <p>© {year} Kolhan University. All rights reserved.</p>
         <div className="flex gap-4">
