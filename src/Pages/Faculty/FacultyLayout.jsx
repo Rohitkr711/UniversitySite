@@ -1,4 +1,3 @@
-import React from "react";
 import FacultySidebar from "./FacultySidebar";
 import FacultyHeader from "./FacultyHeader";
 import { Outlet } from "react-router";
